@@ -1,4 +1,4 @@
-# 👋Hi there ✨***Dhanasai***✨ here!
+<h1 text-align="center">👋Hi there ✨***Dhanasai***✨ here!</h1>
 
 
 I'm a self learner and very enthusiastic person to learn new stuff
