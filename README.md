@@ -1,6 +1,5 @@
 # 👋Hi there ✨***Dhanasai***✨ here!
 
-<hr/>
 
 I'm a self learner and very enthusiastic person to learn new stuff
 
