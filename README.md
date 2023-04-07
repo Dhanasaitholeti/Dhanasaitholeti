@@ -1,6 +1,10 @@
-# Hi there 👋  Dhanasai here!
+# Hi there 👋 **Dhanasai** here!
 
 <hr/>
+
+
+<p>I'm a computer science student at kakinada institute of engineering & technology</P>
+<!-- <p>/</p> -->
 <!--
 **Dhanasaitholeti/dhanasaitholeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
