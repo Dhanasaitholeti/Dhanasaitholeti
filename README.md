@@ -1,7 +1,9 @@
-<h1 text-align="center">👋Hi there ✨***Dhanasai***✨ here!</h1>
+<h1 align="center" background-color="white">👋Hi there ✨***Dhanasai***✨ here!</h1>
+
+<h3>Think low-level,Code high-level</h3>
 
 
-I'm a self learner and very enthusiastic person to learn new stuff
+<p>I'm a self learner and very enthusiastic person to learn new stuff</p>
 
 <!--
 **Dhanasaitholeti/dhanasaitholeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
