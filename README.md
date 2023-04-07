@@ -1,4 +1,4 @@
-# <center>Hi there 👋  Dhanasai here!</center>
+# Hi there 👋  Dhanasai here!
 
 <hr/>
 <!--
