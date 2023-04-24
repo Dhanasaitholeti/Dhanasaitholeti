@@ -6,7 +6,7 @@
 - 🪴I'm currently learning Machine Learning
 - 😀 you can call me ⚡DS⚡
 - You can check my [portfolio](https://dhansai-portfolio.netlify.app/)
-
+- view my [Resume](https://github.com/Dhanasaitholeti/dhanasaitholeti/files/11307663/DhanasaiResume.2023.pdf)
 
 <!-- <p>Technologies:</p>
 <p></p>
