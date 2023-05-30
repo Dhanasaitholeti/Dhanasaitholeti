@@ -6,6 +6,7 @@
 - 😀 you can call me ⚡DS⚡
 - You can check my [portfolio](https://dhansai-portfolio.netlify.app/)
 - view my [Resume](https://github.com/Dhanasaitholeti/dhanasaitholeti/files/11359284/DhanasaiResume.2023.pdf)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=dhanasaitholeti)](https://git.io/streak-stats)
 
 <!-- <p>Technologies:</p>
 <p></p>
