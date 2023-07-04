@@ -8,6 +8,6 @@
 - view my [Resume](https://github.com/Dhanasaitholeti/dhanasaitholeti/files/11359284/DhanasaiResume.2023.pdf)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhanasaitholeti?theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhanasaitholeti&theme=highcontrast)](https://git.io/streak-stats)
 
 
