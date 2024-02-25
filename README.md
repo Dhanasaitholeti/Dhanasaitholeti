@@ -5,6 +5,6 @@
 - 📫You can mail me here dhanasai5566@gmail.com
 - 😀 you can call me ⚡DS⚡
 - 🤖You can check my [portfolio](https://dhansai-portfolio.netlify.app/)
-- 😁view my [Resume](https://github.com/Dhanasaitholeti/dhanasaitholeti/files/12387235/Resume.pdf)
+- 😁view my [Resume](https://github.com/Dhanasaitholeti/dhanasaitholeti/files/14395336/Resume.pdf)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhanasaitholeti&theme=highcontrast)](https://git.io/streak-stats)
