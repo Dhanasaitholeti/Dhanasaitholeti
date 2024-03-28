@@ -4,9 +4,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on MiniMix
+- 🔭 I’m currently working on builder.io
 - 👯 I’m looking to collaborate on Web Applications
-- 🤝 I’m looking for help with Socialize
 - 🌱 I’m currently learning Go
 - ⚡ Fun fact I Think I'm Funny(I am😁)
 - 📫You can mail me here dev.dhanasai@gmail.com
